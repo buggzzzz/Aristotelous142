@@ -15,6 +15,11 @@
   -ms-content-zooming: none;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
+html, head {
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+}
 
 html, body {
   width: 100%;
